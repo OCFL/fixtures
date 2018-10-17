@@ -2,16 +2,15 @@
   "head": "v2",
   "id": "ark:/12345/bcd987",
   "type": "Object",
-  "versions": [
-    {
+  "versions": {
+    "v3": {
       "created": "2018-03-03T03:03:03Z",
       "message": "Reinstate image.tiff, delete empty.txt",
       "type": "Version",
       "user": {
         "address": "cecilia@example.com",
         "name": "Cecilia"
-      },
-      "version": "v3"
+      }
     }
-  ]
+  }
 }
