@@ -6,4 +6,9 @@ Data that comprises sets of object content arranged version directories in order
 
 # `objects`
 
-Example OCFL objects.
+Example good OCFL objects.
+
+# `bad_objects`
+
+Example bad OCFL objects. Idea is to name the object directories `badXX_english_reason` where `XX` just keeps a sequence number and `english_reason` is a short explanation of why the object is bad. Then, there can be a corresponding `badXX_english_reason.json` which has details of what errors the validator should find.
+
