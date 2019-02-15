@@ -46,7 +46,7 @@
       "v1/content/image.tiff"
     ]
   },
-  "type": "Object",
+  "type": "https://ocfl.io/1.0/spec/#inventory",
   "versions": {
     "v1": {
       "created": "2018-01-01T01:01:01Z",
@@ -62,7 +62,6 @@
           "image.tiff"
         ]
       },
-      "type": "Version",
       "user": {
         "address": "alice@example.com",
         "name": "Alice"
@@ -80,7 +79,6 @@
           "empty2.txt"
         ]
       },
-      "type": "Version",
       "user": {
         "address": "bob@example.com",
         "name": "Bob"
@@ -100,7 +98,6 @@
           "image.tiff"
         ]
       },
-      "type": "Version",
       "user": {
         "address": "cecilia@example.com",
         "name": "Cecilia"
