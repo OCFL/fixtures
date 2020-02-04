@@ -4,7 +4,7 @@ All fixtures are drafts for a proposed 1.0 release of OCFL. Everything in this r
 
 ## OCFL v1.0
 
-Within the `1.0` directory there is:
+Within the `1.0` directory there are three directories:
 
 ### `objects`
 
@@ -19,4 +19,3 @@ Some of these fixtures correspond to a valid OCFL object provided in the `object
 ### `bad_objects`
 
 This directory contains invalid OCFL objects. They are named in the form `badXX_english_reason` where `XX` is just a sequence number, and `english_reason` is a short explanation of why the object is bad. Some fixtures have a corresponding `badXX_english_reason.json` which contains details of the errors that the validator should find.
-
