@@ -7,7 +7,7 @@
 	    "v1/content/file.txt"
         ]
     },
-    "type": "Object",
+    "type": "https://ocfl.io/1.0/spec/#inventory",
     "versions": {
 	"v1": {
 	    "created": "2018-10-31T12:54:57.688459Z",
@@ -17,7 +17,6 @@
 		    "file.txt"
                 ]
 	    },
-	    "type": "Version",
 	    "user": {
 		"address": "somewhere",
 		"name": "someone"

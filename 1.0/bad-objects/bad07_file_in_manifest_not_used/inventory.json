@@ -1,7 +1,7 @@
 {
     "digestAlgorithm": "sha512",
     "head": "v1",
-    "id": "info:bad05",
+    "id": "info:bad07",
     "manifest": {
 	"e7c22b994c59d9cf2b48e549b1e24666636045930d3da7c1acb299d1c3b7f931f94aae41edda2c2b207a36e10f8bcb8d45223e54878f5b316e7ce3b6bc019629": [
 	    "v1/content/file.txt"
@@ -10,7 +10,7 @@
 	    "v1/content/file2.txt"
         ]
     },
-    "type": "Object",
+    "type": "https://ocfl.io/1.0/spec/#inventory",
     "versions": {
 	"v1": {
 	    "created": "2018-10-31T12:54:57.688459Z",
@@ -20,7 +20,6 @@
 		    "file.txt"
                 ]
 	    },
-	    "type": "Version",
 	    "user": {
 		"address": "somewhere",
 		"name": "someone"
