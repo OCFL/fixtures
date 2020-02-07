@@ -27,6 +27,7 @@
   "type": "https://ocfl.io/1.0/spec/#inventory",
   "versions": {
     "v1": {
+      "created": "2000-01-02T03:04:05Z",
       "state": {
         "a8a450d00c6ca7aa90e3e4858864fc195b6b2fe0a75c2d1e078e92eca232ce7be034a129ea9ea9cda2b0efaf11ba8f5ebdbebacb12f7992a4c37cad589e16a4d": [
           "file.txt"
