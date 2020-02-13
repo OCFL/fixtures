@@ -1,6 +1,6 @@
 {
   "id": "bb123cd4567",
-  "head": "v0002",
+  "head": "v0004",
   "type": "https://ocfl.io/1.0/spec/#inventory",
   "digestAlgorithm": "sha256",
   "contentDirectory": "content",
@@ -14,7 +14,7 @@
   },
   "versions": {
     "v0001": {
-      "created": "",
+      "created": "2019-08-12",
       "message": "",
       "user": {
         "name": "",
@@ -30,7 +30,7 @@
       }
     },
     "v0002": {
-      "created": "",
+      "created": "2019-09-12",
       "message": "",
       "user": {
         "name": "",
@@ -46,6 +46,21 @@
           "my_content/poe-nevermore.txt"
         ]
       }
+    }
+  },
+  "fixity": {
+    "md5": {
+      "fccd3f96d461f495a3bef31dc1d28f01": [
+        "v0001/content/my_content/dracula.txt"
+      ],
+      "d2c79c8519af858fac2993c2373b5203": [
+        "v0001/content/my_content/poe.txt"
+      ]
+    },
+    "sha1": {
+      "aa9e59cde167454f1f8b1f0eeeb0795e2d2f8c6f": [
+        "v0001/content/my_content/poe.txt"
+      ]
     }
   }
 }
