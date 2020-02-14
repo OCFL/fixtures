@@ -1,6 +1,6 @@
 {
   "digestAlgorithm": "sha512",
-  "head": "v3",
+  "head": "v2",
   "id": "uri:something451",
   "manifest": {
     "10c4f059fc9235474c75c5e4b48837d1fcd93f6bca273c1153deb568096e1ec18fe5cd13467e550ca9dcfe8d4f81b2f71d5951a169cbfb321445a9a3211be708": [
@@ -18,6 +18,11 @@
         "43a43fe8a8a082d3b5343dfaf2fd0c8b8e370675b1f376e92e9994612c33ea255b11298269d72f797399ebb94edeefe53df243643676548f584fb8603ca53a0f": [
           "a_file.txt"
         ]
+      },
+      "message": "Store version 1",
+      "user": {
+        "name": "Sombody",
+        "address": "https://orcid.org/0000-0000-0000-0000"
       }
     },
     "v2": {
@@ -26,6 +31,11 @@
         "10c4f059fc9235474c75c5e4b48837d1fcd93f6bca273c1153deb568096e1ec18fe5cd13467e550ca9dcfe8d4f81b2f71d5951a169cbfb321445a9a3211be708": [
           "a_file.txt"
         ]
+      },
+      "message": "Store version 2",
+      "user": {
+        "name": "Sombody",
+        "address": "https://orcid.org/0000-0000-0000-0000"
       }
     }
   }
