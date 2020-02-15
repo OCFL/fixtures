@@ -1,6 +1,6 @@
 {
   "id": "info:bb123cd4567",
-  "head": "v4",
+  "head": "v3",
   "type": "https://ocfl.io/1.0/spec/#inventory",
   "digestAlgorithm": "sha512",
   "contentDirectory": "content",
@@ -13,9 +13,6 @@
     ],
     "242a60b18a716f1e88ebbb3a546a119009671dc210317be1cca206650db471c8d84769d495b4e169bfe8200b4d6d60520aa75fe99e401bd7738107b7b0ca0bcd": [
       "v3/content/my_content/poe-nevermore.txt"
-    ],
-    "c70fa23f7447d5a8008ed7324f69d624b6fa376e2373b82f2163d214f27e6f07607ffca505824a78138b491243a84e5ca9b818ed67975427c3a7b0258410efc9": [
-      "v4/content/my_content/dunwich.txt"
     ]
   },
   "versions": {
@@ -67,26 +64,6 @@
         ],
         "242a60b18a716f1e88ebbb3a546a119009671dc210317be1cca206650db471c8d84769d495b4e169bfe8200b4d6d60520aa75fe99e401bd7738107b7b0ca0bcd": [
           "my_content/poe-nevermore.txt"
-        ]
-      }
-    },
-    "v4": {
-      "created": "2020-01-04T03:03:03Z",
-      "message": "Ia! Ia! cthulhu fhtagn!",
-      "user": {
-        "name": "Yog-Sothoth",
-        "address": "all_seeing_spheres@miskatonic.edu"
-      },
-      "state": {
-        "ffc150e7944b5cf5ddb899b2f48efffbd490f97632fc258434aefc4afb92aef2e3441ddcceae11404e5805e1b6c804083c9398c28f061c9ba42dd4bac53d5a2e": [
-          "my_content/dracula.txt",
-          "my_content/another_directory/a_third_copy_of_dracula.txt"
-        ],
-        "242a60b18a716f1e88ebbb3a546a119009671dc210317be1cca206650db471c8d84769d495b4e169bfe8200b4d6d60520aa75fe99e401bd7738107b7b0ca0bcd": [
-          "my_content/poe-nevermore.txt"
-        ],
-        "c70fa23f7447d5a8008ed7324f69d624b6fa376e2373b82f2163d214f27e6f07607ffca505824a78138b491243a84e5ca9b818ed67975427c3a7b0258410efc9": [
-          "my_content/dunwich.txt"
         ]
       }
     }
