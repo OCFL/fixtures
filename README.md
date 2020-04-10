@@ -4,9 +4,11 @@ All fixtures are drafts for a proposed 1.0 release of OCFL. Everything in this r
 
 ## OCFL v1.0
 
+See error and warning codes in https://github.com/OCFL/spec/blob/master/validation/validation-codes.md
+
 Within the `1.0` directory there are three directories:
 
-### `objects`
+### `good-objects`
 
 This directory contains valid OCFL objects. Each directory is the OCFL object root of the valid object.
 
@@ -16,6 +18,10 @@ This directory contains content that can be used to test the construction of OCF
 
 Some of these fixtures correspond to a valid OCFL object provided in the `objects` directory. These correspond by name. For example, `content/spec-ex-full` maps to `objects/spec-ex-full`, and `content/cf1` maps to `objects/of1`.
 
-### `bad_objects`
+### `warn-objects`
 
-This directory contains invalid OCFL objects. They are named in the form `badXX_english_reason` where `XX` is just a sequence number, and `english_reason` is a short explanation of why the object is bad. Some fixtures have a corresponding `badXX_english_reason.json` which contains details of the errors that the validator should find.
+This directory contains OCFL objects that should trigger warnings.
+
+### `bad-objects`
+
+This directory contains invalid OCFL objects.
