@@ -21,10 +21,10 @@
   "versions": {
     "v0001": {
       "created": "2019-08-12T00:00:00Z",
-      "message": "",
+      "message": "A message",
       "user": {
-        "name": "",
-        "address": ""
+        "name": "A Person",
+        "address": "mailto:person@example.org"
       },
       "state": {
         "cffe55838a878a29da82a0e10b2909b7e46b6f7167ed7f815782465573e98f27": [
@@ -37,10 +37,10 @@
     },
     "v0002": {
       "created": "2019-09-12T00:00:00Z",
-      "message": "",
+      "message": "A message",
       "user": {
-        "name": "",
-        "address": ""
+        "name": "A Person",
+        "address": "mailto:person@example.org"
       },
       "state": {
         "cffe55838a878a29da82a0e10b2909b7e46b6f7167ed7f815782465573e98f27": [
@@ -55,10 +55,10 @@
     },
     "v0003": {
       "created": "2019-10-12T00:00:00Z",
-      "message": "",
+      "message": "A message",
       "user": {
-        "name": "",
-        "address": ""
+        "name": "A Person",
+        "address": "mailto:person@example.org"
       },
       "state": {
         "cffe55838a878a29da82a0e10b2909b7e46b6f7167ed7f815782465573e98f27": [
@@ -75,7 +75,7 @@
       "message": "Ia! Ia! cthulhu fhtagn!",
       "user": {
         "name": "Yog-Sothoth",
-        "address": "all_seeing_spheres@miskatonic.edu"
+        "address": "mailto:all_seeing_spheres@miskatonic.edu"
       },
       "state": {
         "cffe55838a878a29da82a0e10b2909b7e46b6f7167ed7f815782465573e98f27": [
