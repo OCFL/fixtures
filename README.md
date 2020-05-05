@@ -20,7 +20,7 @@ Some of these fixtures correspond to a valid OCFL object provided in the `object
 
 ### `warn-objects`
 
-This directory contains OCFL objects that should trigger warnings.
+This directory contains OCFL objects that should trigger warnings. The [warning codes](https://github.com/OCFL/spec/blob/master/validation/validation-codes.md#warnings--corresponding-with-should-in-specification) are used a prefixes to the object directory name, e.g. `W001_W004_W005_zero_padded_versions` is expected to generate warnings `W001`, `W004` and `W005`.
 
 ### `bad-objects`
 
