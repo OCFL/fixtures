@@ -1,7 +1,7 @@
 {
   "digestAlgorithm": "sha512",
   "head": "v1",
-  "id": "ark:123/abc",
+  "id": "http://example.org/minimal_mixed_digests",
   "manifest": {
     "43A43fE8A8A082D3B5343dfaf2fd0c8b8e370675b1f376e92e9994612c33ea255b11298269d72f797399ebb94edeefe53df243643676548f584fb8603ca53a0f": [
       "v1/content/a_file.txt"
@@ -16,6 +16,10 @@
         "43a43fe8a8a082d3b5343dfaf2fd0c8b8e370675b1f376e92e9994612c33ea255b11298269d72f797399EBB94EDEEFE53DF243643676548F584FB8603CA53A0F": [
           "a_file.txt"
         ]
+      },
+      "user": {
+        "address": "mailto:a_person@example.org",
+        "name": "A Person"
       }
     }
   }

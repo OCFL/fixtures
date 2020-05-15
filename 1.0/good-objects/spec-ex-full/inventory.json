@@ -63,7 +63,7 @@
         ]
       },
       "user": {
-        "address": "alice@example.com",
+        "address": "mailto:alice@example.com",
         "name": "Alice"
       }
     },
@@ -80,7 +80,7 @@
         ]
       },
       "user": {
-        "address": "bob@example.com",
+        "address": "mailto:bob@example.com",
         "name": "Bob"
       }
     },
@@ -99,7 +99,7 @@
         ]
       },
       "user": {
-        "address": "cecilia@example.com",
+        "address": "mailto:cecilia@example.com",
         "name": "Cecilia"
       }
     }
