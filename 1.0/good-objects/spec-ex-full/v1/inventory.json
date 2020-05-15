@@ -54,7 +54,7 @@
         ]
       },
       "user": {
-        "address": "alice@example.com",
+        "address": "mailto:alice@example.com",
         "name": "Alice"
       }
     }
