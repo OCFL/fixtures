@@ -8,7 +8,7 @@
       "43c8321bda03dea62b63a5c09e9105b24ab6121b": [ "v1/content/file.txt" ]
     },
     "sha256": {
-      "0b13a01dc7580ed7d4737d62ecd1a0c2067b0f3eccc327f4964fd82d582e3fd4": [ "file.txt" ]
+      "0b13a01dc7580ed7d4737d62ecd1a0c2067b0f3eccc327f4964fd82d582e3fd4": [ "v1/content/file.txt" ]
     },
     "sha512": {
       "a8a450d00c6ca7aa90e3e4858864fc195b6b2fe0a75c2d1e078e92eca232ce7be034a129ea9ea9cda2b0efaf11ba8f5ebdbebacb12f7992a4c37cad589e16a4d": [ "v1/content/file.txt" ]
