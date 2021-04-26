@@ -31,7 +31,7 @@
           "test-2.txt"
         ]
       },
-      "message": "Does not match",
+      "message": "Simple example v2",
       "user": {
         "name": "tester",
         "address": "mailto:tests@example.com"
