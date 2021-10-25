@@ -7,7 +7,7 @@
       "v1/content/a_file.txt"
     ]
   },
-  "type": "https://ocfl.io/1.0/spec/#inventory",
+  "type": "https://ocfl.io/1.1/spec/#inventory",
   "versions": {
     "v1": {
       "created": "2019-01-01T22:22:22Z",

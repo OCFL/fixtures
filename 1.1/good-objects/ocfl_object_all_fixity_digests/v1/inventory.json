@@ -24,7 +24,7 @@
       "v1/content/file.txt"
     ]
   },
-  "type": "https://ocfl.io/1.0/spec/#inventory",
+  "type": "https://ocfl.io/1.1/spec/#inventory",
   "versions": {
     "v1": {
       "created": "2000-01-02T03:04:05Z",

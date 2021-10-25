@@ -1,7 +1,7 @@
 {
   "id": "urn:example",
   "head": "v1",
-  "type": "https://ocfl.io/1.0/spec/#inventory",
+  "type": "https://ocfl.io/1.1/spec/#inventory",
   "digestAlgorithm": "md5",
   "contentDirectory": "content",
   "manifest": {

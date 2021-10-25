@@ -1,7 +1,7 @@
 {
   "id": "bb123cd4567",
   "head": "v0001",
-  "type": "https://ocfl.io/1.0/spec/#inventory",
+  "type": "https://ocfl.io/1.1/spec/#inventory",
   "digestAlgorithm": "sha256",
   "contentDirectory": "content",
   "manifest": {
