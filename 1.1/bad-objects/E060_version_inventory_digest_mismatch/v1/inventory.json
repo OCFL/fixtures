@@ -17,7 +17,7 @@
           "test.txt"
         ]
       },
-      "message": "Changed!",
+      "message": "Simple example",
       "user": {
         "name": "tester",
         "address": "mailto:tests@example.com"
