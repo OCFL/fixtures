@@ -29,5 +29,6 @@ This directory contains invalid OCFL objects.
 ## Update policy
 
   * All proposed changes must be made as [pull-requests](https://github.com/OCFL/fixtures/pulls)
+  * Please make PRs fine-grained, usually adding or changing just one fixture at a time
   * Two [OCFL editors](https://github.com/orgs/OCFL/teams/editors) must approve the pull-request (one may be the pull-request creator who's approval is implicit)
   * After 24 hours, if there are no editors objecting, any editor except the pull-request author can merge
