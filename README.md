@@ -1,12 +1,13 @@
 # OCFL Test Fixtures
 
-All fixtures are drafts for a proposed 1.0 release of OCFL. Everything in this repository is organized by OCFL version number as the top-level directory.
+All fixtures are for 1.0 and 1.1 releases of OCFL. Everything in this repository is organized by OCFL version number as the top-level directory.
 
-## OCFL v1.0
+## OCFL releases
 
-See error and warning codes in https://github.com/OCFL/spec/blob/master/validation/validation-codes.md
+   - OCFL 1.0: See error and warning codes in https://github.com/OCFL/spec/blob/main/1.0/spec/validation-codes.md
+   - OCFL 1.1: See error and warning codes in https://github.com/OCFL/spec/blob/main/1.1/spec/validation-codes.md
 
-Within the `1.0` directory there are three directories:
+Within each version directory (e.g. the `1.0` directory) there are four directories:
 
 ### `good-objects`
 
@@ -20,7 +21,7 @@ Some of these fixtures correspond to a valid OCFL object provided in the `object
 
 ### `warn-objects`
 
-This directory contains OCFL objects that should trigger warnings. The [warning codes](https://github.com/OCFL/spec/blob/master/validation/validation-codes.md#warnings--corresponding-with-should-in-specification) are used a prefixes to the object directory name, e.g. `W001_W004_W005_zero_padded_versions` is expected to generate warnings `W001`, `W004` and `W005`.
+This directory contains OCFL objects that should trigger warnings. The [warning codes](https://github.com/OCFL/spec/blob/main/draft/spec/validation-codes.md#warnings--corresponding-with-should-in-specification) are used a prefixes to the object directory name, e.g. `W001_W004_W005_zero_padded_versions` is expected to generate warnings `W001`, `W004` and `W005`.
 
 ### `bad-objects`
 
