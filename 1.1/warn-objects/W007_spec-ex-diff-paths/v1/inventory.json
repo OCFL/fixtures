@@ -1,0 +1,31 @@
+{
+  "digestAlgorithm": "sha512",
+  "head": "v1",
+  "id": "http://example.org/diff-paths",
+  "manifest": {
+    "7545b8720a601235067473f2c87f43461f5c147fb622d51bfcdcda05e0773c96e9f922f4d88d371bb7f87793b655b9e1c3b8bbca35f2950c5c87eda955179f67": [
+      "v1/content/3bacb119a98a15c5"
+    ],
+    "af318dca6b3f5ad0c1029814417362bde735c84b23edc7367bbf3c3b964945e9c87918da78442efca1c1b6d88f3a65197f09cf02479b3580e89c3879e77ca3cd": [
+      "v1/content/9f2bab8ef869947d"
+    ]
+  },
+  "type": "https://ocfl.io/1.1/spec/#inventory",
+  "versions": {
+    "v1": {
+      "created": "2019-03-14T20:31:00Z",
+      "state": {
+        "7545b8720a601235067473f2c87f43461f5c147fb622d51bfcdcda05e0773c96e9f922f4d88d371bb7f87793b655b9e1c3b8bbca35f2950c5c87eda955179f67": [
+          "a file.wxy"
+        ],
+        "af318dca6b3f5ad0c1029814417362bde735c84b23edc7367bbf3c3b964945e9c87918da78442efca1c1b6d88f3a65197f09cf02479b3580e89c3879e77ca3cd": [
+          "another file.xyz"
+        ]
+      },
+      "user": {
+        "address": "mailto:admin@example.org",
+        "name": "Some Admin"
+      }
+    }
+  }
+}
